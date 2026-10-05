@@ -1,16 +1,14 @@
-## Hi there 👋
+🎓 **Étudiant en BTS SIO (Option SLAM)** | 💻 **Développeur C# & Software**
 
-<!--
-**sekousyb/sekousyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur mon profil GitHub ! Passionné par la programmation et la conception logicielle, je développe mes compétences à travers mes cours, des projets académiques et des projets personnels.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 À propos de moi
+
+- 🏫 **Formation** : BTS SIO option SLAM (Solutions Logicielles et Applications Métiers).
+- 💡 **Spécialité** : Développement orienté objet, particulièrement en C#.
+- 🎯 **Objectif** : À la recherche d'un stage en développement logiciel.
+- 🌱 **En cours d'apprentissage** : C#.
+
+---
